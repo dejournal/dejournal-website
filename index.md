@@ -20,7 +20,7 @@ Dejournal is a pre-print server for scientific papers. Papers on Dejournal are s
 
 ### Software requirements
 
-Dejournal is a browser application that runs on your computer. It interacts directly with [Ethereum](https://ethereum.org) blockchain and Interplanetary Filesystem ([IPFS](https://ipfs.net)). For communication with Ethereum blockchain you will need to install [Metamask wallet](https://metamask.io) and a compatible browser. 
+Dejournal is a browser application that runs on your computer. It interacts directly with [Ethereum](https://ethereum.org) blockchain and Interplanetary Filesystem ([IPFS](https://ipfs.io)). For communication with Ethereum blockchain you will need to install [Metamask wallet](https://metamask.io) and a compatible browser. 
 
 After you install the Metamask extension in your browser, create a new wallet and securely store the seed phrase.
 
