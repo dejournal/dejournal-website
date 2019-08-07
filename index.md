@@ -9,7 +9,7 @@ permalink: /
 # Science, free for everyone and kept forever
 {: .fs-9 }
 
-Dejournal is a pre-print server for scientific papers. Papers on Dejournal are stored forever and cannot be removed. Anyone can access them freely. #open-science
+Dejournal is a pre-print server for scientific papers. It runs on [Ethereum](https://ethereum.org) blockchain and [IPFS](https://ipfs.io). Papers on Dejournal are stored forever and always freely available.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/dejournal/dejournal){: .btn .fs-5 .mb-4 .mb-md-0 }
