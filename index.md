@@ -44,6 +44,13 @@ Dejournal runs on Rinkeby Ethereum testnet. You can get free ether on Metamask f
 
 ## About the project
 
+### Founders
+
+Dejournal was started by two disappointed scientists.
+
+* [Tilen Kranjc](https://www.tilenkranjc.com)
+* [Marko Corn](https://si.linkedin.com/in/marko-corn)
+
 ### License
 
 Dejournal is distributed by an [MIT license](https://github.com/dejournal-website/dejournal/tree/master/LICENSE.txt).
